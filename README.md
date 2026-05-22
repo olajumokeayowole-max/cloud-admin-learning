@@ -1,4 +1,4 @@
-# Cloud Admin Learning Journey
+ Cloud Admin Learning Journey
 
 This repository contains my notes, practice projects, troubleshooting steps, and cloud administration learning progress.
 
@@ -9,7 +9,7 @@ This repository contains my notes, practice projects, troubleshooting steps, and
 - Git & GitHub
 - Troubleshooting
 
-## Goals
+ Goals
 - Learn cloud administration
 - Understand infrastructure basics
 - Practice server management
